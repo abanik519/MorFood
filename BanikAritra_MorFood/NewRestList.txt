@@ -1,0 +1,56 @@
+Name: George Restaurant | Rating: 0.0 | Time Limit: 2.5 hours
+Reviews: No reviews
+Name: Carisma | Rating: 0.0 | Time Limit: 2.0 hours
+Reviews: No reviews
+Name: Richmond Station | Rating: 0.0 | Time Limit: 1.5 hours
+Reviews: No reviews
+Name: Biff's Bistro | Rating: 0.0 | Time Limit: 2.0 hours
+Reviews: No reviews
+Name: Joso's | Rating: 0.0 | Time Limit: 3.0 hours
+Reviews: No reviews
+Name: Drake One Fifty | Rating: 0.0 | Time Limit: 2.0 hours
+Reviews: No reviews
+Name: Miku Toronto | Rating: 0.0 | Time Limit: 2.0 hours
+Reviews: No reviews
+Name: Vegetarian Haven | Rating: 0.0 | Time Limit: 2.0 hours
+Reviews: No reviews
+Name: Byblos | Rating: 0.0 | Time Limit: 2.5 hours
+Reviews: No reviews
+Name: Canoe | Rating: 0.0 | Time Limit: 3.0 hours
+Reviews: No reviews
+Name: Roti Lady | Rating: 0.0 | Average Cook Time: 30.0 minutes
+Reviews: No reviews
+Name: Pizza Nova | Rating: 0.0 | Average Cook Time: 25.0 minutes
+Reviews: No reviews
+Name: Wimpy's Diner | Rating: 0.0 | Average Cook Time: 25.0 minutes
+Reviews: No reviews
+Name: Pizza Shab | Rating: 0.0 | Average Cook Time: 25.0 minutes
+Reviews: No reviews
+Name: Kinto Ramen | Rating: 0.0 | Average Cook Time: 30.0 minutes
+Reviews: No reviews
+Name: Lebanon Express | Rating: 0.0 | Average Cook Time: 20.0 minutes
+Reviews: No reviews
+Name: Noodle King | Rating: 0.0 | Average Cook Time: 25.0 minutes
+Reviews: No reviews
+Name: Patties Express | Rating: 0.0 | Average Cook Time: 10.0 minutes
+Reviews: No reviews
+Name: Freshii | Rating: 0.0 | Average Cook Time: 15.0 minutes
+Reviews: No reviews
+Name: Panago Pizza | Rating: 0.0 | Average Cook Time: 20.0 minutes
+Reviews: No reviews
+Name: Butter Chicken FactoryRating: 0.0 | Base Delivery Fee: $2.5 | Delivery Fare(per km): $1.0
+Reviews: No reviews
+Name: Salad KingRating: 0.0 | Base Delivery Fee: $2.0 | Delivery Fare(per km): $1.2
+Reviews: No reviews
+Name: M'ZaarRating: 0.0 | Base Delivery Fee: $2.25 | Delivery Fare(per km): $1.0
+Reviews: No reviews
+Name: Wow SushiRating: 0.0 | Base Delivery Fee: $2.5 | Delivery Fare(per km): $1.0
+Reviews: No reviews
+Name: Thai BasilRating: 0.0 | Base Delivery Fee: $1.75 | Delivery Fare(per km): $1.2
+Reviews: No reviews
+Name: SukhothaiRating: 0.0 | Base Delivery Fee: $2.5 | Delivery Fare(per km): $1.75
+Reviews: No reviews
+Name: Cora PizzaRating: 0.0 | Base Delivery Fee: $2.0 | Delivery Fare(per km): $1.75
+Reviews: No reviews
+Name: Mac's Sushi | Rating: 0.0 | Average Cook Time: 10.0 minutes
+Reviews: No reviews

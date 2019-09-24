@@ -1,0 +1,29 @@
+George Restaurant,-79.374501,43.65324,Dine In,2.5
+Carisma,-79.37616,43.650139,Dine In,2.0
+Richmond Station,-79.378972,43.651384,Dine In,1.5
+Biff's Bistro,-79.376872,43.647024,Dine In,2.0
+Joso's,-79.396111,43.675121,Dine In,3.0
+Drake One Fifty,-79.384576,43.649579,Dine In,2.0
+Miku Toronto,-79.37735,43.641449,Dine In,2.0
+Vegetarian Haven,-79.392831,43.656037,Dine In,2.0
+Byblos,-79.388902,43.648883,Dine In,2.5
+Canoe,-79.380981,43.647381,Dine In,3.0
+Roti Lady,-79.262148,43.716126,Take Out,30.0
+Pizza Nova,-79.250757,43.718429,Take Out,25.0
+Wimpy's Diner,-79.261829,43.716198,Take Out,25.0
+Pizza Shab,-79.378361,43.657205,Take Out,25.0
+Kinto Ramen,-79.379027,43.660369,Take Out,30.0
+Lebanon Express,-79.382881,43.661227,Take Out,20.0
+Noodle King,-79.38316,43.651407,Take Out,25.0
+Patties Express,-79.381883,43.657927,Take Out,10.0
+Freshii,-79.380531,43.665543,Take Out,15.0
+Panago Pizza,-79.382221,43.659074,Take Out,20.0
+Butter Chicken Factory,-79.369236,43.666955,Delivery,2.5,1.0
+Salad King,-79.38151,43.65763,Delivery,2.0,1.2
+M'Zaar,-79.385647,43.667156,Delivery,2.25,1.0
+Wow Sushi,-79.38684,43.66844,Delivery,2.5,1.0
+Thai Basil,-79.406693,43.665907,Delivery,1.75,1.2
+Sukhothai,-79.365953,43.658371,Delivery,2.5,1.75
+Cora Pizza,-79.402608,43.663345,Delivery,2.0,1.75
+Popeyes,-79.434665,43.659873,Take Out,15.0
+Mac's Sushi,-79.53791,43.824856,Take Out,10.0
